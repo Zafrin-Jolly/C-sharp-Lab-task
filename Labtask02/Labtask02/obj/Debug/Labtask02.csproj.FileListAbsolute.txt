@@ -1,0 +1,7 @@
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\obj\Debug\Labtask02.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\obj\Debug\Labtask02.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\bin\Debug\Labtask02.exe.config
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\bin\Debug\Labtask02.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\bin\Debug\Labtask02.pdb
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\obj\Debug\Labtask02.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Labtask02\Labtask02\obj\Debug\Labtask02.pdb
