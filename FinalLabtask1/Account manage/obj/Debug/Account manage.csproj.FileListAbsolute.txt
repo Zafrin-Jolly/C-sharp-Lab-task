@@ -1,0 +1,9 @@
+C:\Users\zafrin jolly\source\repos\Account manage\Account manage\obj\Debug\Account manage.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\source\repos\Account manage\Account manage\obj\Debug\Account manage.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\bin\Debug\Account manage.exe.config
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\bin\Debug\Account manage.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\bin\Debug\Account manage.pdb
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\obj\Debug\Account manage.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\obj\Debug\Account manage.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\obj\Debug\Account manage.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\FinalLabtask1\Account manage\obj\Debug\Account manage.pdb
