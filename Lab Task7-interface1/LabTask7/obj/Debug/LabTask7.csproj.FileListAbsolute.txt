@@ -1,0 +1,7 @@
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\bin\Debug\LabTask7.exe.config
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\bin\Debug\LabTask7.exe
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\bin\Debug\LabTask7.pdb
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\obj\Debug\LabTask7.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\obj\Debug\LabTask7.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\obj\Debug\LabTask7.exe
+C:\Users\zafrin jolly\source\repos\LabTask7\LabTask7\obj\Debug\LabTask7.pdb
