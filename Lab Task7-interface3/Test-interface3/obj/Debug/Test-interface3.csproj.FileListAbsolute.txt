@@ -1,0 +1,7 @@
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\bin\Debug\Test-interface3.exe.config
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\bin\Debug\Test-interface3.exe
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\bin\Debug\Test-interface3.pdb
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\obj\Debug\Test-interface3.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\obj\Debug\Test-interface3.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\obj\Debug\Test-interface3.exe
+C:\Users\zafrin jolly\source\repos\Test-interface3\Test-interface3\obj\Debug\Test-interface3.pdb
