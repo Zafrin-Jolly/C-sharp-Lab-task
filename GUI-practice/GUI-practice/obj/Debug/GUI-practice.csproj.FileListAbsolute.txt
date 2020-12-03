@@ -1,0 +1,11 @@
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\bin\Debug\GUI-practice.exe.config
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\bin\Debug\GUI-practice.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\bin\Debug\GUI-practice.pdb
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI_practice.Form1.resources
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI_practice.Properties.Resources.resources
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.csproj.GenerateResource.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.pdb
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI_practice.Registration.resources
