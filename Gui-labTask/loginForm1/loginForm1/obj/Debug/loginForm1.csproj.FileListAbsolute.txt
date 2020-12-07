@@ -1,0 +1,12 @@
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\bin\Debug\loginForm1.exe.config
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\bin\Debug\loginForm1.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\bin\Debug\loginForm1.pdb
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.csprojAssemblyReference.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.Properties.Resources.resources
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.csproj.GenerateResource.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.csproj.CoreCompileInputs.cache
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.exe
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.pdb
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.Form1.resources
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.Form2.resources
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\Gui-labTask\loginForm1\loginForm1\obj\Debug\loginForm1.Form3.resources
