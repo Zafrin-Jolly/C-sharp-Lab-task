@@ -1,0 +1,12 @@
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\bin\Debug\Final_Lab03_FormPractice.exe.config
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\bin\Debug\Final_Lab03_FormPractice.exe
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\bin\Debug\Final_Lab03_FormPractice.pdb
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.csprojAssemblyReference.cache
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.Form1.resources
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.Properties.Resources.resources
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.csproj.GenerateResource.cache
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.exe
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.pdb
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.Form2.resources
+F:\Programming\C#\Final_Lab03_FormPractice\Final_Lab03_FormPractice\obj\Debug\Final_Lab03_FormPractice.Registration.resources
