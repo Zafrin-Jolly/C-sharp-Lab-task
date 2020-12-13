@@ -9,3 +9,4 @@ C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\
 C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.exe
 C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI-practice.pdb
 C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI_practice.Registration.resources
+C:\Users\zafrin jolly\OneDrive\Desktop\OOP2\Tasks\GUI-practice\GUI-practice\obj\Debug\GUI_practice.DashBoard.resources
